@@ -11,6 +11,12 @@ baseUrl: https://raw.githubusercontent.com/shaundma/database-backup-addon/master
 targetNodes:
   nodeType:
     - llsmp
+    - litespeedphp
+    - nginxphp-dockerized
+    - nginx-dockerized
+    - Node.js
+    - almalinux-vps
+    - ubuntu-vps
     - lemp
     - apache
     - redis
