@@ -10,7 +10,7 @@ baseUrl: https://raw.githubusercontent.com/shaundma/database-backup-addon/master
 
 targetNodes:
   nodeType:
-    - cp
+    - llsmp
     - lemp
     - apache
     - redis
