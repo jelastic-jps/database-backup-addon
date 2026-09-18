@@ -14,6 +14,11 @@ targetNodes:
     - redis7
     - redis6
     - postgresql
+    - postgres20
+    - postgres19
+    - postgres18
+    - postgres17
+    - postgres16
     - postgres15
     - postgres14
     - postgres13
@@ -25,6 +30,10 @@ targetNodes:
     - mariadb-dockerized
     - mariadb10
     - mariadb11
+    - mariadb12
+    - mariadb13
+    - mariadb14
+    - mariadb15
     - mongodb-dockerized
     - mongodb
     - perconadb
